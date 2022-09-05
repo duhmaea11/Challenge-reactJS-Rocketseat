@@ -1,5 +1,6 @@
 header.header {
-  background: var(--blue);
+  display: flex;
+  background: var(--gray);
   padding-top: 2rem;
   
   > div {
